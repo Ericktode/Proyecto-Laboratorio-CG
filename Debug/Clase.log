@@ -1,0 +1,90 @@
+﻿  Camera.cpp
+  figuras.cpp
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(12,9): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(12,21): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(12,33): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(13,10): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(13,22): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(13,35): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(14,10): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(14,22): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(14,36): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(15,9): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(15,21): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(15,35): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(16,9): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(16,20): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(16,33): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(17,9): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(17,20): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(17,34): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(18,10): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(18,21): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(18,35): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(19,10): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(19,21): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(19,34): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(76,9): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(76,21): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(76,33): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(77,10): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(77,22): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(77,35): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(78,10): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(78,22): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(78,36): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(79,9): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(79,21): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(79,35): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(80,9): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(80,20): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(80,33): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(81,9): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(81,20): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(81,34): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(82,10): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(82,21): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(82,35): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(83,10): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(83,21): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(83,34): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(127,9): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(127,21): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(127,33): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(128,10): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(128,22): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(128,35): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(129,10): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(129,22): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(129,36): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(130,9): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(130,21): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(130,35): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(131,9): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(131,20): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(131,33): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(132,9): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(132,20): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(132,34): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(133,10): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(133,21): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(133,35): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(134,10): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(134,21): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(134,34): warning C4838:  la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(324,11): warning C4101:  'theta': variable local sin referencia
+  Jerarquia.cpp
+  texture.cpp
+  Generando código...
+C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\figuras.cpp(324,18): warning C4101:  'phi': variable local sin referencia
+cmodel.lib(_3dsloader.obj) : warning LNK4099: no se encontró PDB '㧀བྷ䁰ཕͬ' con 'cmodel.lib(_3dsloader.obj)' o en '㧀བྷ䁰ཕͬ'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(CModel.obj) : warning LNK4099: no se encontró PDB '㧀བྷ䁰ཕͬ' con 'cmodel.lib(CModel.obj)' o en '㧀བྷ䁰ཕͬ'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(CObject.obj) : warning LNK4099: no se encontró PDB '㧀བྷ䁰ཕͬ' con 'cmodel.lib(CObject.obj)' o en '㧀བྷ䁰ཕͬ'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(GFILoader.obj) : warning LNK4099: no se encontró PDB '㧀བྷ䁰ཕͬ' con 'cmodel.lib(GFILoader.obj)' o en '㧀བྷ䁰ཕͬ'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(GLRender.obj) : warning LNK4099: no se encontró PDB '㧀བྷ䁰ཕͬ' con 'cmodel.lib(GLRender.obj)' o en '㧀བྷ䁰ཕͬ'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(HandleStream.obj) : warning LNK4099: no se encontró PDB '㧀བྷ䁰ཕͬ' con 'cmodel.lib(HandleStream.obj)' o en '㧀བྷ䁰ཕͬ'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(imageload.obj) : warning LNK4099: no se encontró PDB '㧀བྷ䁰ཕͬ' con 'cmodel.lib(imageload.obj)' o en '㧀བྷ䁰ཕͬ'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(MATRIX4X4.obj) : warning LNK4099: no se encontró PDB '㧀བྷ䁰ཕͬ' con 'cmodel.lib(MATRIX4X4.obj)' o en '㧀བྷ䁰ཕͬ'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(VECTOR3D.obj) : warning LNK4099: no se encontró PDB '㧀བྷ䁰ཕͬ' con 'cmodel.lib(VECTOR3D.obj)' o en '㧀བྷ䁰ཕͬ'; se vinculará el objeto sin tener en cuenta información de depuración
+cmodel.lib(VECTOR4D.obj) : warning LNK4099: no se encontró PDB '㧀བྷ䁰ཕͬ' con 'cmodel.lib(VECTOR4D.obj)' o en '㧀བྷ䁰ཕͬ'; se vinculará el objeto sin tener en cuenta información de depuración
+  Clase.vcxproj -> C:\Users\beto\Desktop\ProyectoCGLab1\ProyectCGLab-master\ProyectLab\ProyectLab\Debug\Clase.exe
